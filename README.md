@@ -5,12 +5,12 @@ In this project, we will use a number of different supervised algorithms to prec
 Prediction
 Some of the available Classification algorithms in scikit-learn:
 
->> Gaussian Naive Bayes (GaussianNB)
+> Gaussian Naive Bayes (GaussianNB)
 >> Decision Trees
->> Ensemble Methods (AdaBoost, Random Forest,..)
->> Stochastic Gradient Descent Classifier (SGDC)
->> Logistic Regression
+>>> Ensemble Methods (AdaBoost, Random Forest,..)
+>>>> Stochastic Gradient Descent Classifier (SGDC)
+>>>>> Logistic Regression
 
 What we will be using in our notebook are
->> Logistic Regression
+> Logistic Regression
 >> Decission Trees
